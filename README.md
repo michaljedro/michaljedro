@@ -1,6 +1,6 @@
 
 <h1 align="center"> Frontend Developer Michał Jędro </h1>
-<img src='DSC02063-Edit-2.JPG'/>
+<img src='DSC02063-Edit-2.JPG'=100x100/>
 <h4 align="center">Create a README.md file for your profile in less than a minute!<br/></h4>
 <p align="center"> <img src=https://komarev.com/ghpvc/?username=rajk3770-github-profile-readme-creator alt=rajk3770 /> </p>
 <p align="center">
