@@ -2,8 +2,8 @@
 <h1 align="center"> Frontend Developer Michał Jędro </h1>
 
 <p align="center">
-Please visit my projects | Proszę spojrzeć na moje projekty |  
-Bitte schauen Sie sich meine Projekte an 
+Please visit my projects | Zapraszam do odwiedzenia moich projektów |  
+Bitte besuchen Sie meine Projekte
  </p>
 
 
