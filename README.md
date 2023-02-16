@@ -9,7 +9,7 @@ Bitte besuchen Sie meine Projekte | Please visit my projects | Zapraszam do odwi
 <div>
  
  <kbd>
- <a href="[https://codeforpoznan.pl](https://github.com/michaljedro/the-choice)">The Choice</a>
+ <a href="https://codeforpoznan.pl">The Choice</a>
 </kbd>
  </div>
 
