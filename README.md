@@ -10,6 +10,9 @@ Bitte besuchen Sie meine Projekte | Please visit my projects | Zapraszam do odwi
  
  <kbd>
  <a href="https://codeforpoznan.pl">The Choice</a>
+  <p>
+Project created in react using typesscript
+  </p>
 </kbd>
  </div>
 
