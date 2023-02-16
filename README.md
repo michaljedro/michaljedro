@@ -7,9 +7,7 @@ Bitte besuchen Sie meine Projekte | Please visit my projects | Zapraszam do odwi
  </p>
 
 <div>
-   <p>
-Project created in react using typesscript
-  </p>
+   ## The Choice
  <kbd>
  <a href="https://codeforpoznan.pl">The Choice</a>
 </kbd>
