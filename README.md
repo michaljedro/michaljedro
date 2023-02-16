@@ -7,10 +7,11 @@ Bitte besuchen Sie meine Projekte | Please visit my projects | Zapraszam do odwi
  </p>
 
 <div>
-  The Choice
+  #1.
  <kbd>
  <a href="https://codeforpoznan.pl">The Choice</a>
 </kbd>
+  is a project created in React using Typescript and Material UI
  </div>
 
 ## Code_for_Poznań 
