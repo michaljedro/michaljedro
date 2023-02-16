@@ -6,7 +6,12 @@ Bitte besuchen Sie meine Projekte | Please visit my projects | Zapraszam do odwi
 
  </p>
 
-
+<div>
+ 
+ <kbd>
+ <a href="[https://codeforpoznan.pl](https://github.com/michaljedro/the-choice)">The Choice</a>
+</kbd>
+ </div>
 
 ## Code_for_Poznań 
 
