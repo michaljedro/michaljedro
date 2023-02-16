@@ -18,7 +18,6 @@ Bitte besuchen Sie meine Projekte | Please visit my projects | Zapraszam do odwi
  <kbd>
  <a href="https://codeforpoznan.pl">Express, React TO DO APP </a>
 </kbd>
-  
 is a project created with a combined backend and frontend. Thanks to styled-components it is possible to change the background
  </div>
  <div>
