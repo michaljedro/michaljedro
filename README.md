@@ -34,6 +34,7 @@ is a project created with a combined backend and frontend. Thanks to styled-comp
 </kbd>
   is a project created in React using Typescript and Material UI
  </div>
+ 
 ## Code_for_Poznań 
 
 <kbd>
