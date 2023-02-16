@@ -23,9 +23,9 @@ is a project created with a combined backend and frontend. Thanks to styled-comp
  <div>
   3.
  <kbd>
- <a href="https://codeforpoznan.pl">The Choice</a>
+ <a href="https://github.com/michaljedro/movie-app">Frontend Mentor - Entertainment web app</a>
 </kbd>
-  is a project created in React using Typescript and Material UI
+is using React with the help of TypeScript. It uses Redux for state management.
  </div>
  <div>
 
