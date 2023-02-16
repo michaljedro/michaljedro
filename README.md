@@ -7,7 +7,7 @@ Bitte besuchen Sie meine Projekte | Please visit my projects | Zapraszam do odwi
  </p>
 
 <div>
-  #1.
+  1.
  <kbd>
  <a href="https://codeforpoznan.pl">The Choice</a>
 </kbd>
