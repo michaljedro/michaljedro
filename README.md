@@ -14,7 +14,7 @@ Bitte besuchen Sie meine Projekte | Please visit my projects | Zapraszam do odwi
   is a project created in React using Typescript and Material UI
  </div>
 <div>
-  1.
+  2.
  <kbd>
  <a href="https://codeforpoznan.pl">Express, React TO DO APP </a>
 </kbd>
@@ -22,14 +22,14 @@ Bitte besuchen Sie meine Projekte | Please visit my projects | Zapraszam do odwi
 is a project created with a combined backend and frontend. Thanks to styled-components it is possible to change the background
  </div>
  <div>
-  1.
+  3.
  <kbd>
  <a href="https://codeforpoznan.pl">The Choice</a>
 </kbd>
   is a project created in React using Typescript and Material UI
  </div>
  <div>
-  1.
+  4.
  <kbd>
  <a href="https://codeforpoznan.pl">The Choice</a>
 </kbd>
