@@ -9,7 +9,7 @@ Bitte besuchen Sie meine Projekte | Please visit my projects | Zapraszam do odwi
 <div>
   1.
  <kbd>
- <a href="https://codeforpoznan.pl">The Choice</a>
+ <a href="https://github.com/michaljedro/the-choice">The Choice</a>
 </kbd>
   is a project created in React using Typescript and Material UI
  </div>
