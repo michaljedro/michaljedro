@@ -11,7 +11,7 @@ Bitte besuchen Sie meine Projekte | Please visit my projects | Zapraszam do odwi
  <kbd>
  <a href="https://github.com/michaljedro/the-choice">The Choice</a>
 </kbd>
-  is a project created in React using Typescript and Material UI
+  is a project created in React using Typescript and Material UI. For project will create Test Driven Development
  </div>
 <div>
   2.
