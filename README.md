@@ -2,7 +2,7 @@
 <h1 align="center">React Frontend Developer Michał Jędro </h1>
 
 <p align="center">
-Bitte besuchen Sie meine Projekte | Please visit my projects | Zapraszam do odwiedzenia moich projektów  
+ Please visit my projects | Zapraszam do odwiedzenia moich projektów  
 
  </p>
 
