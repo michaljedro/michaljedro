@@ -10,6 +10,8 @@
   1.
  <kbd>
  <a href="https://github.com/michaljedro/the-choice">The Choice</a>
+  
+  <a> href='http://the-right-choice.vercel.app/'> Link to the project</a>
 </kbd>
   is a project created in React using Typescript and Material UI. For project will create Test Driven Development
  </div>
