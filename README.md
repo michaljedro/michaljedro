@@ -17,13 +17,7 @@
 </kbd>
  </div>
 <div>
-  2.
- <kbd>
- <a href="https://github.com/michaljedro/todoapp-express-react-ts">Express, React TO DO APP </a>
-</kbd>
-is a project created with a combined backend and frontend. Thanks to styled-components it is possible to change the background
- </div>
- <div>
+
   3.
  <kbd>
  <a href="https://github.com/michaljedro/movie-app">Frontend Mentor - Entertainment web app</a>
