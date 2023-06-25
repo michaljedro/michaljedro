@@ -9,12 +9,12 @@ Here are some of my recent projects:
 
 [ToDo List React and Backend Express]([url]https://todolist-with-backend.vercel.app/) - [https://the-choice.netlify.app/](https://todolist-with-backend.vercel.app/)
 
-[Store Website](https://michaljedro.github.io/strona-sklepu/index.html#) - [https://michaljedro.github.io/strona-sklepu/index.html#](https://michaljedro.github.io/strona-sklepu/index.html#)
+[Store Website]([url]https://michaljedro.github.io/strona-sklepu/index.html#) - [https://michaljedro.github.io/strona-sklepu/index.html#](https://michaljedro.github.io/strona-sklepu/index.html#)
 
 ###
 
 <p>My skills:</p>
 
-<div>
+<div
     <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,git,html,css,sass,bootstrap,tailwindcss,mui,webpack,vite" />
 </div>
