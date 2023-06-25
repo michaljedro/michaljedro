@@ -7,7 +7,7 @@ Here are some of my recent projects:
 
 [The-Choice]([url](https://the-choice.netlify.app/)) - [https://the-choice.netlify.app/](https://the-choice.netlify.app/)
 
-[ToDo List React and Backend Express](https://todolist-with-backend.vercel.app/) - [[https://the-choice.netlify.app/](https://todolist-with-backend.vercel.app/)]
+[ToDo List React and Backend Express](https://todolist-with-backend.vercel.app/) - [https://the-choice.netlify.app/](https://todolist-with-backend.vercel.app/)]
 
 
 [project_name](url) - ...
