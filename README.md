@@ -9,7 +9,7 @@ Here are some of my recent projects:
 
 [ToDo List React and Backend Express]([url]https://todolist-with-backend.vercel.app/) - [https://the-choice.netlify.app/](https://todolist-with-backend.vercel.app/)
 
-[Store Website](https://michaljedro.github.io/strona-sklepu/index.html#)) - ([url](https://michaljedro.github.io/strona-sklepu/index.html#)
+[Store Website](https://michaljedro.github.io/strona-sklepu/index.html#)) - ([https://michaljedro.github.io/strona-sklepu/index.html#](https://michaljedro.github.io/strona-sklepu/index.html#)
 
 ###
 
