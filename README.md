@@ -1,7 +1,14 @@
 <h1 align="center">Welcome to my profile! Let's create something great together 😉</h1>
-## About Me 🚀 
 
+### 🚀  About Me
 <p>Hi, I'm Michał, a front-end developer with a strong passion for building visually appealing and user-friendly websites. I am based in Poznan, Poland and I have experience with React, Typescript, Next.js, JavaScript, Git, HTML, CSS, Sass, Bootstrap, TailwindCSS, MUI, Webpack and Vite. I have experience building interactive and responsive websites. I'm always looking to learn and improve my skills.</p>
+
+
+-  **Working :** Front-End :computer: 
+-  **Learning :** Full-Stack :zap: | Cybersecurity :fire:	
+-  **Hobbies :** Footballs :books: | Traveling 🗺️
+-  **Fun fact :** I'm a firefighter :sweat_smile: But, I prefer computer,cats and tea :heart: 
+
 ## Projects
 
 Here are some of my recent projects:
