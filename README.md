@@ -11,7 +11,7 @@ Here are some of my recent projects:
 
 [Store Website]([url]https://michaljedro.github.io/strona-sklepu/index.html#) - [https://michaljedro.github.io/strona-sklepu/index.html#](https://michaljedro.github.io/strona-sklepu/index.html#)
 
-[Intro Component with signup form]([url][https://michaljedro.github.io/strona-sklepu/index.html#]) - [https://michaljedro.github.io/strona-sklepu/index.html#]([https://intro-component-with-sing-up.netlify.app/]
+[Intro Component with signup form]([url][https://michaljedro.github.io/strona-sklepu/index.html#]) - [https://michaljedro.github.io/strona-sklepu/index.html#](https://intro-component-with-sing-up.netlify.app/)
 
 Repo to the project are below
 
