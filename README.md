@@ -21,3 +21,8 @@ Repo to the project are below
 <div>
     <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,git,html,css,sass,bootstrap,tailwindcss,mui,webpack,vite" />
 </div>
+|                |ASCII                          |HTML                         |
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
