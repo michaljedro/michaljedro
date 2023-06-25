@@ -5,11 +5,11 @@
 
 Here are some of my recent projects:
 
-[The-Choice]([url](https://the-choice.netlify.app/)) - [https://the-choice.netlify.app/](https://the-choice.netlify.app/)
+[The-Choice]([url](https://the-choice.netlify.app/)) - [https://the-choice.netlify.app/](https://the-choice.netlify.app/) GITHUB 
 
-[ToDo List React and Backend Express]([url]https://todolist-with-backend.vercel.app/) - [https://the-choice.netlify.app/](https://todolist-with-backend.vercel.app/)
+[ToDo List React and Backend Express]([url]https://todolist-with-backend.vercel.app/) - [https://the-choice.netlify.app/](https://todolist-with-backend.vercel.app/) GITHUB
 
-[Store Website]([url]https://michaljedro.github.io/strona-sklepu/index.html#) - [https://michaljedro.github.io/strona-sklepu/index.html#](https://michaljedro.github.io/strona-sklepu/index.html#)
+[Store Website]([url]https://michaljedro.github.io/strona-sklepu/index.html#) - [https://michaljedro.github.io/strona-sklepu/index.html#](https://michaljedro.github.io/strona-sklepu/index.html#) GITHUB
 
 ###
 
