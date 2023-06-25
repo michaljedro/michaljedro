@@ -14,7 +14,6 @@ Here are some of my recent projects:
 ###
 
 <p>My skills:</p>
-
-<div
+<div>
     <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,git,html,css,sass,bootstrap,tailwindcss,mui,webpack,vite" />
 </div>
