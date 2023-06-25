@@ -11,7 +11,7 @@ Here are some of my recent projects:
 
 [Store Website]([url]https://michaljedro.github.io/strona-sklepu/index.html#) - [https://michaljedro.github.io/strona-sklepu/index.html#](https://michaljedro.github.io/strona-sklepu/index.html#) 
 
-Repo to the project are pinned below
+Repo to the project are below
 
 ###
 
