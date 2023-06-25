@@ -5,7 +5,7 @@
 
 Here are some of my recent projects:
 
-[The-Choice]([url](https://the-choice.netlify.app/)) - [..](https://the-choice.netlify.app/)
+[The-Choice]([url](https://the-choice.netlify.app/)) - [https://the-choice.netlify.app/](https://the-choice.netlify.app/)
 
 [project_name](url) - ...
 
