@@ -6,7 +6,7 @@
 
 -  **Working :** Front-End :computer: 
 -  **Learning :** Full-Stack :zap: | Cybersecurity :fire:	
--  **Hobbies :** Football ⚽: | Traveling 🗺️
+-  **Hobbies :** Football ⚽ | Traveling 🗺️
 -  **Fun fact :** I'm a firefighter :sweat_smile: But, I prefer computer,cats and tea :heart:
   ### 📊 Profile stats
 <img height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaljedro&theme=dracula&show_icons=true&layout=compact&langs_count=6" />
