@@ -32,5 +32,5 @@ Repo to the project are below
 
 <p>My skills:</p>
 <div>
-    <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,javascript,git,html,css,sass,bootstrap,tailwindcss,mui,webpack,vite,nodejs,postman,jest,cypress" />
+    <img src="https://skillicons.dev/icons?i=react,redux,typescript,nextjs,javascript,git,html,css,sass,bootstrap,tailwindcss,mui,webpack,vite,nodejs,postman,jest,cypress,figma" />
 </div>
