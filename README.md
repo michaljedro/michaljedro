@@ -8,7 +8,7 @@
 -  **Learning :** Full-Stack :zap: | Cybersecurity :fire:	
 -  **Hobbies :** Football ⚽ | Traveling 🗺️
 -  **Fun fact :** I'm a firefighter  🚒 But, I prefer computer,cats and tea :heart:
-  
+  <img height="160em" align="right" src="https://github.com/michaljedro/michaljedro/blob/main/DSC03467print.JPG" />
   
 ## 📊 Profile stats
 
