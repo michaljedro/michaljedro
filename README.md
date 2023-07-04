@@ -2,13 +2,15 @@
 
 ## 🚀  About Me
 <p>Hi, I'm Michał, a front-end developer with a strong passion for building visually appealing and user-friendly websites. I am based in Poznan, Poland and I have experience with React, Typescript, Next.js, JavaScript, Git, HTML, CSS, Sass, Bootstrap, TailwindCSS, MUI, Webpack and Vite. I have experience building interactive and responsive websites. I'm always looking to learn and improve my skills.</p>
-
+<div style="display: flex; align-items: center;">
+  <img height="360em" align="right" src="https://github.com/michaljedro/michaljedro/blob/main/DSC03467print.JPG" />
+</div>
 
 -  **Working :** Front-End :computer: 
 -  **Learning :** Full-Stack :zap: | Cybersecurity :fire:	
 -  **Hobbies :** Football ⚽ | Traveling 🗺️
 -  **Fun fact :** I'm a firefighter  🚒 But, I prefer computer,cats and tea :heart:
-  <img height="160em" align="right" src="https://github.com/michaljedro/michaljedro/blob/main/DSC03467print.JPG" />
+  
   
 ## 📊 Profile stats
 
