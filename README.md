@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, here's Michał 😉 you can pronounce it as MeHow ;) </h1>
+<h1 align="center">Welcome, here's Michał !</h1>
 
 ![DSC03467print](https://github.com/michaljedro/michaljedro/assets/50203318/97da9044-6699-4336-aaa3-dc451e714055)
 
