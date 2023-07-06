@@ -1,5 +1,7 @@
 <h1 align="center">Welcome, here's Michał 😉 you can pronounce it as MeHow ;) </h1>
 
+![DSC03467print](https://github.com/michaljedro/michaljedro/assets/50203318/97da9044-6699-4336-aaa3-dc451e714055)
+
 ## 🚀  About Me
   <p>Hi, I'm Michał, a front-end developer with a strong passion for building visually appealing and user-friendly websites. I am based in Poznan, Poland and I have experience with React, Typescript, Next.js, JavaScript, Git, HTML, CSS, Sass, Bootstrap, TailwindCSS, MUI, Webpack and Vite. I have experience building interactive and responsive websites. I'm always looking to learn and improve my skills.</p>
 
