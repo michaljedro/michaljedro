@@ -3,7 +3,8 @@
 ![DSC03467print](https://github.com/michaljedro/michaljedro/assets/50203318/97da9044-6699-4336-aaa3-dc451e714055)
 
 ## 🚀  About Me
-  <p>Hi, I'm Michał, a front-end developer with a strong passion for building visually appealing and user-friendly websites. I am based in Poznan, Poland and I have experience with React, Typescript, Next.js, JavaScript, Git, HTML, CSS, Sass, Bootstrap, TailwindCSS, MUI, Webpack and Vite. I have experience building interactive and responsive websites. I'm always looking to learn and improve my skills.</p>
+  <p>Hi, I'm Michał, a front-end developer with a strong passion for building visually appealing and user-friendly websites. I am based in Poznan, Poland and I have experience with React, Typescript, Next.js, JavaScript, Git, HTML, CSS, Sass, Bootstrap, TailwindCSS, MUI, Webpack and Vite. I have experience building interactive and responsive websites. I'm always looking to learn and improve my skills.Therefore, in order to catch the broader context of software development and architecture, I decided during my MA studies in computer science, specializing in mobile applications, to write a thesis on "The use of Artificial Intelligence in testing applications written in React".
+</p>
 
 
 -  **Working :** Front-End :computer: 
