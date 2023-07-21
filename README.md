@@ -10,7 +10,7 @@
 -  **Working :** Front-End :computer: 
 -  **Learning :** Full-Stack :zap: | Cybersecurity 👮‍♂	| AI 🛰️	
 -  **Hobbies :** Football ⚽ | Traveling 🗺️
--  **Fun fact :** I'm a firefighter  🚒 But, I prefer computer,cats and tea :heart:
+-  **Fun fact :** I was a firefighter  🚒 But, I prefer computer,cats and tea :heart:
   
   
 ## 📊 Profile stats
