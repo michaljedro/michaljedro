@@ -8,7 +8,7 @@
 
 
 -  **Working :** Front-End :computer: 
--  **Learning :** Full-Stack :zap: | Cybersecurity 👮‍♂	| 	
+-  **Learning :** Full-Stack :zap: | Software Cybersecurity 👮‍♂	| 	
 -  **Hobbies :** Football ⚽ | Traveling 🗺️
 -  **Fun fact :** I am a firefighter  🚒 But, I prefer computer,cats and tea :heart:
   
